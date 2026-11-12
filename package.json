@@ -1,0 +1,1 @@
+{"name":"ascensores-valparaiso","version":"1.0.0","description":"Aplicación web/PWA de los ascensores históricos de Valparaíso","private":true,"type":"module","scripts":{"test":"node --test"}}
